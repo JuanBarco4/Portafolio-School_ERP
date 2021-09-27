@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://images.unsplash.com/photo-1506784365847-bbad939e9335?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=868&q=80">
 
-## Información
+## Información 📝
 
 |  Nombre:  | Juan Pablo Barco Monterroso  |
 | ------------ | ------------ |
@@ -18,7 +18,7 @@
 |  Materia: |  Laboratorio 1 |
 |  Profesor: |  Jossue Emmanuel Fuentes |
 
-## Indice
+## Indice 🏷️
 
 |  Portada |  1 |
 | ------------ | ------------ |
@@ -31,7 +31,7 @@
 | Dashboard  |  7 |
 |  Profile | 8  |
 
-## Objetivos
+## Objetivos 🔎
 
 - Comprender y aplicar todo lo aprendido en esta unidad
 - Manejar cada etiqueta o propiedad de HTML y CSS
