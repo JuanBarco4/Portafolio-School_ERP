@@ -9,11 +9,12 @@
 |  Nombre:  | Juan Pablo Barco Monterroso  |
 | ------------ | ------------ |
 |  Colegio:  | Santa Catalina Laboure  |
-| Mi trabajo:  |   https://juanbarco4.github.io/School_ERP/  
- https://juanbarco4.github.io/login/  
- https://juanbarco4.github.io/Login2/  
-  https://juanbarco4.github.io/dashboard/ 
-|https://juanbarco4.github.io/profile/ |
+| Mi trabajo:  | Wireframes: |
+| Splash  | https://juanbarco4.github.io/School_ERP/ |
+| Login  | https://juanbarco4.github.io/login/ |
+| LoginV2  | https://juanbarco4.github.io/Login2/ |
+| Dashboard  | https://juanbarco4.github.io/dashboard/ |
+| Profile  | https://juanbarco4.github.io/profile/ |
 |  Materia: |  Laboratorio 1 |
 |  Profesor: |  Jossue Emmanuel Fuentes |
 
