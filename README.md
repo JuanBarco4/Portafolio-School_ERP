@@ -25,11 +25,11 @@
 | Anteportada  |  2 |
 | Indice  |  3 |
 | Objetivos  | 4  |
-| Glosario HTML y CSS  |  5 |
-|  - Home page |6   |
-| Banner  |   6.1|
-| -Glosario  |  7 |
-|  Contenido html y css | 7.1  |
+| Splash  |  5 |
+|  Login |6   |
+| LoginV2  |   6.1|
+| Dashboard  |  7 |
+|  Profile | 8  |
 
 ## Objetivos
 
@@ -40,9 +40,3 @@
 ## Objetivos futuros
 
 - Trabajar con dedicación y esmero cada actividad para que mi portafolio quede los más presentable posible.
-
-## School ERP - Wireframes
-
-| Links   |
-| ------------ |
-   
