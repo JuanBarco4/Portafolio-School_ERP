@@ -33,10 +33,10 @@
 
 ## Objetivos
 
--  Comprender cada uno de los temas vistos en clase
-- Manejar cada tema y fucionalidad aprendida de HTML y CSS
-- Interesarme por aprender nuevas cosas por mu cuenta que me puedan ayudar en un futuro
+- Comprender y aplicar todo lo aprendido en esta unidad
+- Manejar cada etiqueta o propiedad de HTML y CSS
+- Interesarme por aprender más por mi propia cuenta del desarrollo web
 
 ## Objetivos futuros
 
-- Trabajar con dedicación y esmero cada actividad para que mi portafolio quede los más presentable posible.
+- Trabajar con adecuadamente cada tarea de este IV período.
