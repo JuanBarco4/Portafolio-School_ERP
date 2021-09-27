@@ -9,7 +9,11 @@
 |  Nombre:  | Juan Pablo Barco Monterroso  |
 | ------------ | ------------ |
 |  Colegio:  | Santa Catalina Laboure  |
-| Mi trabajo:  |  https://juanbarco4.github.io/Glosario/  |
+| Mi trabajo:  |   https://juanbarco4.github.io/School_ERP/  
+ https://juanbarco4.github.io/login/  
+ https://juanbarco4.github.io/Login2/  
+  https://juanbarco4.github.io/dashboard/ 
+|https://juanbarco4.github.io/profile/ |
 |  Materia: |  Laboratorio 1 |
 |  Profesor: |  Jossue Emmanuel Fuentes |
 
@@ -40,8 +44,4 @@
 
 | Links   |
 | ------------ |
-| https://juanbarco4.github.io/School_ERP/  |
-| https://juanbarco4.github.io/login/  |
-| https://juanbarco4.github.io/Login2/  |
-|  https://juanbarco4.github.io/dashboard/ |
-|https://juanbarco4.github.io/profile/   |
+   
