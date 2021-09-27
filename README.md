@@ -2,7 +2,7 @@
 
 # Portafolio IV Periodo 2021 🏷️
 
-<img width="100%" src="https://images.unsplash.com/photo-1508873699372-7aeab60b44ab?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80">
+<img width="100%" src="https://images.unsplash.com/photo-1506784365847-bbad939e9335?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=868&q=80">
 
 ## Información
 
